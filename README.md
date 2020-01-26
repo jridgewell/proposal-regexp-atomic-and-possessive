@@ -45,6 +45,14 @@ possessive.test('abb'); // => true
 possessive.test('aab'); // => false
 ```
 
+## Champions
+
+- Justin Ridgewell ([@jridgewell](https://github.com/jridgewell/))
+
+## Status
+
+Current [Stage](https://tc39.es/process-document/): 0
+
 ## Motivation
 
 JavaScript's Regular Expressions are great, but developers can
@@ -71,7 +79,7 @@ for (let i = 0; i < 50; i++) {
 }
 ```
 
-| String Length | Execution Time |
+| String Length | Time (seconds) |
 |--------------:|---------------:|
 |             0 |           0.00 |
 |             1 |           0.00 |
@@ -110,15 +118,6 @@ for (let i = 0; i < 50; i++) {
 |            34 |         233.58 |
 | I got bored waiting...         |
 
-## Champions
-
-- Justin Ridgewell ([@jridgewell](https://github.com/jridgewell/))
-
-## Status
-
-Current [Stage](https://tc39.es/process-document/): 0
-
-## Motivation
 
 
 ## Related

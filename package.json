@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "proposal-regexp-atomic-and-possessive",
+  "description": "A proposal to add Atomic Groups and Possessive Quantifiers to RegExps",
+  "scripts": {
+    "build": "ecmarkup spec.emu index.html"
+  },
+  "homepage": "https://github.com/jridgewell/proposal-regexp-atomic-and-possessive#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jridgewell/proposal-regexp-atomic-and-possessive.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ecmarkup": "^3.11.5"
+  }
+}

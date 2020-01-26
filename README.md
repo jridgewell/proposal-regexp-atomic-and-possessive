@@ -124,3 +124,4 @@ for (let i = 0; i < 50; i++) {
 
 - [Atomic Grouping](https://www.regular-expressions.info/atomic.html)
 - [Possessive Quantifiers](https://www.regular-expressions.info/possessive.html)
+  - [ES Discourse](https://es.discourse.group/t/possessive-regexp-matching/203/5)
